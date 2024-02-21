@@ -4,3 +4,5 @@ pandas
 pymongo
 flask-cors
 pyrebase4
+flask
+gunicorn
